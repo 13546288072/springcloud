@@ -25,6 +25,7 @@
 		</dependency>
 		
 		<!-- 监控系统健康情况的工具 -->
+		<!--  服务监控hystrixDashboard-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
